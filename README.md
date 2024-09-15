@@ -1,7 +1,3 @@
-Sure thing! Here's a `README.md` file for your Jupyter Notebook project:
-
----
-
 # Arrest Data Analysis
 
 ## Overview
