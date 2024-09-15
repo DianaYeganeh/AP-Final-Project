@@ -139,10 +139,3 @@ sns.lineplot(x=hourly_arrests.index, y=hourly_arrests.values, marker='o', palett
 ## Results
 
 The notebook generates various plots and visualizations to help understand arrest trends, seasonal patterns, and demographic distributions. Results include bar charts, pie charts, and line plots to illustrate the findings.
-
-## Contributing
-
-Feel free to contribute by submitting issues or pull requests if you have suggestions or improvements.
-
-
-
